@@ -1,0 +1,60 @@
+body {
+    background-color: turquoise;
+}
+
+.mainContainer {
+    display: flex;
+    flex-flow: column;
+    justify-items: center;
+    align-items: center;
+}
+
+
+.form {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    background-color: yellowgreen;
+}
+
+.form span {
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.buttonSpan {
+    display: flex;
+}
+
+h4 {
+   margin: 0;
+   text-align: center;
+}
+
+.form span input {
+    width: 200px;
+    height: 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.buttons {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.repairsDiv {
+    display: flex;
+    flex-flow: column;
+    margin-bottom: 15px;
+}
+
+.searchAllNewDiv {
+    border: 3px solid black;
+    margin-bottom: 15px;
+}
+
+.searchAllNewDiv:first-child {
+    margin-top: 15px;
+}

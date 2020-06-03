@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Servis za avtomobili</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="icon" type="image/jpeg" href="IP Home & Office.jpeg">
+</head>
+<body>
+    <div class="mainContainer">
+        <form class="form">
+            <span>
+                <h4>Model</h4>
+                <input id="model" type="text" placeholder="e.g. Mercedes-Benz GLE 250">
+            </span>
+            <span>
+                <h4>Production year</h4>
+                <input id="productionYear" type="number" placeholder="e.g. 2013">
+            </span>
+            <span>
+                <h4>Mileage</h4>
+                <input id="mileage" type="number" placeholder="e.g. 100000km">
+            </span>
+            <span>
+                <h4>Owner - Full Name</h4>
+                <input id="owner" type="text" placeholder="e.g. Mickey Mouse">
+            </span>
+            <span>
+                <h4>Registration number</h4>
+                <input id="registrationNumber" type="text" placeholder="e.g. SK-3333-ZZ">
+            </span>
+            <span class="buttonSpan">
+                <button id="addBtn" type="button">ADD</button>
+            </span>
+        </form>
+        <div class="buttons">
+            <button id="searchAll">Search all</button>
+            <span>
+                <input class="searchText" type="text" placeholder="enter registration number">
+                <button id="searchOrdered">Search ordered</button>
+            </span>            
+        </div>
+        <div class="populate"></div>
+    </div>
+    <script src="helperFunctions.js"></script>
+    <script src="main.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+#page {
+    width: 800px;
+    height: 600px;
+}
+.navigon {
+    background-color: #81b518;
+    padding: 5px;
+    padding-left: 120px;
+    font-size: 18px;
+    margin-top: 50px;
+}
+.navigon a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline;
+}
+
+#leaf {
+    height: 120px;
+    top: 0px;
+    position: absolute;
+}
+
+.title {
+    color: #92CD00;
+    margin-top: 70px;
+    font-weight: bold;
+    margin-left: 10px;
+    width: 400px;
+    font-size: 26px;
+}
+
+.list {
+    float: left;
+}
+
+
+#main-pic {
+    width: 390px;
+    margin-top: 90px;
+}
+
+footer {
+    background-color: #81b518;
+    text-align: center;
+    color: white;
+    padding: 7px;
+    margin-top: 180px;
+}

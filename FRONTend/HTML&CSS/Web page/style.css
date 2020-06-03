@@ -1,0 +1,54 @@
+#page {
+    height: 600px;
+    width: 800px;
+}
+nav {
+    padding: 5px;
+    padding-left: 120px;
+    margin-top: 50px;
+    background-color: #81b518;
+    font-size: 18px;
+}
+nav a {
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    display: inline;
+    text-align: center;
+    margin: 0px;
+}
+#leaf {
+    position: absolute;
+    top:0px;
+    height: 120px;
+}
+.content {
+    width: 350px;
+    height: 420px;
+    float: left;
+    margin-top: 50px;
+
+}
+h2 {
+    color: #92CD00;
+    font-size: 26px;
+    text-align: center;
+}
+p {
+    text-align: justify;
+    color: #192402;
+}
+#main-pic {
+    width: 450px;
+    height: 450px;
+}
+footer  {
+    background-color: #81b518;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    padding: 7px;
+}

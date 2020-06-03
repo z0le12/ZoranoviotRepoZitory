@@ -1,0 +1,64 @@
+#page {
+    width: 800px;
+    height: 600px;
+}
+
+.leaf {
+    height: 120px;
+    position: absolute;
+    top: 0px;
+}
+
+.nav-buttons nav {
+    padding: 5px;
+    background-color: #81b518;
+    padding-left: 120px;
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+.nav-buttons nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline;
+    text-align: center;
+}
+
+h3 {
+    color: #92CD00;
+    margin-top: 70px;
+    font-size: 26px;
+    margin-left: 10px;
+}
+
+.content {
+    width: 400px;
+    float: left;
+}
+h4 {
+    font-weight: normal;
+    text-align: justify;
+    margin: 0px;
+}
+
+.content h4 ul {
+    list-style-type: square;
+    margin: 0;
+}
+
+.main-pic {
+    width: 385px;
+    height: 200px;
+    margin-left: 15px;
+}
+
+footer {
+    background-color: #81b518;
+    color: white;
+    text-align: center;
+    margin-top: 140px;
+    padding: 7px;
+}

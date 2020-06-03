@@ -1,0 +1,57 @@
+#page {
+    width: 800px;
+    height: 600px;
+}
+
+.leaf {
+    height: 120px;
+    position: absolute;
+    top: 0px;
+}
+
+.nav-buttons nav {
+    background-color: #81b518;
+    padding: 5px;
+    padding-left: 120px;
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+.nav-buttons nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline;
+    text-align: center;
+}
+
+.content {
+    width: 350px;
+    float: left;
+    margin-top: 130px;
+}
+
+h2 {
+    text-align: center;
+    color: #92CD00;
+}
+
+.link {
+    text-emphasis-color: yellow;
+}
+
+.main-pic {
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+footer {
+    background-color: #81b518;
+    color: white;
+    padding: 7px;
+    text-align: center;
+    margin-top: 112px;
+}

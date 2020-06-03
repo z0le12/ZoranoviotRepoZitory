@@ -1,0 +1,27 @@
+{
+    "questions": [{
+        "questionText": "Is JavaScript the best coding language in the world?",
+        "questionAnswers": ["Yes", "No"],
+        "correctAnswer": 0
+    }, 
+    {
+        "questionText": "What's the product that IP Home & Office built?",
+        "questionAnswers": ["PowerBox", "DixieCups", "Christmas tree ornaments"],
+        "correctAnswer": 0
+    },
+    {
+        "questionText": "In what city is IP Home & Office based?",
+        "questionAnswers": ["Manchester", "Skopje", "Chcago Bulls"],
+        "correctAnswer": 1
+    },
+    {
+        "questionText": "Who is the smartest person in IP Home & Office?",
+        "questionAnswers": ["Dejan", "Tolijan", "Zoran", "Blagoj", "Orce", "No one of the above"],
+        "correctAnswer": 3
+    },
+    {
+        "questionText": "Is the FaceBook page 'I'm a programmer, I have no life' funny?",
+        "questionAnswers": ["YES", "NO"],
+        "correctAnswer": 1
+    }]
+}
