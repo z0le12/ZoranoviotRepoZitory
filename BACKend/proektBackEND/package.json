@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "helmet": "^3.22.0",
     "morgan": "^1.10.0",
     "mysql": "^2.18.1",
-    "nodemon": "^1.19.4"
+    "nodemon": "^2.0.7"
   },
   "devDependencies": {},
   "scripts": {
